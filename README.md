@@ -1,2 +1,2 @@
 # Resume
-My resume : link(https://rakeshbodavula.github.io/Resume/)
+My resume : [Link](https://rakeshbodavula.github.io/Resume/)
